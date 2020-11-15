@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "626123361014",
+    "firebase_url": "https://rooted-2e41e.firebaseio.com",
+    "project_id": "rooted-2e41e",
+    "storage_bucket": "rooted-2e41e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626123361014:android:2d42abfd351dfc3fadbad7",
+        "android_client_info": {
+          "package_name": "com.root.rooted"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626123361014-9c8tgunb6r5hagi1qgfom1afovn3dto3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKq87ihJFMAX9KDnnJ6E2odDeszYiHvns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626123361014-9c8tgunb6r5hagi1qgfom1afovn3dto3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "626123361014-950uc7uhhuiaevi57glm91nbe8a8oklm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.root.rooted"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

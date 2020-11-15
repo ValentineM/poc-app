@@ -1,10 +1,11 @@
 {
   "expo": {
-    "name": "Memory",
-    "slug": "Memory",
+    "name": "Rooted",
+    "slug": "Rooted",
     "version": "1.0.0",
+    "privacy": "hidden",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/brain.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -17,7 +18,15 @@
       "**/*"
     ],
     "ios": {
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "bundleIdentifier": "com.root.rooted",
+      "buildNumber": "1.0.0",
       "supportsTablet": true
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json", 
+      "package": "com.root.rooted", 
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
